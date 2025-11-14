@@ -35,7 +35,16 @@ The assignments implement core OS concepts such as process management, schedulin
 - Translation Lookaside Buffer (TLB)  
 - Inverted page tables  
 - Page replacement algorithms (LRU, FIFO, Optimal, Clock, etc.)  
-- Real OS implementations of virtual memory  
+- Real OS implementations of virtual memory
+
+### **6. File Management**
+- Key concepts of files, directories, metadata, and access methods
+- Design principles of file systems and naming schemes
+- Reliability considerations: journaling, crash consistency, recovery
+- Performance considerations: caching, buffering, prefetching, fragmentation
+- Real-world file systems:
+    NTFS – structures, MFT, security descriptors, journaling
+    NFS – distributed file system architecture, stateless servers, caching, consistency models
 
 ## 📁 Repository Structure
 ```
